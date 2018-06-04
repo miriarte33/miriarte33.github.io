@@ -1,5 +1,5 @@
 # Portfolio Website #
-Can be visited at http://storm.cis.fordham.edu/~iriarte/
+Can be visited at https://miriarte33.github.io/ 
 
 ## Screenshots ##
 
