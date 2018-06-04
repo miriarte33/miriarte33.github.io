@@ -1,0 +1,67 @@
+.listItem {
+  display: block; 
+}
+
+
+.container {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hideMe {
+  -webkit-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+
+#clicker {
+  display: none;
+}
+
+.pics {
+  display: none;
+}
+
+.hiddenPics {
+  margin-top: 1em;
+  margin-right: 2em;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+#github2 {
+  width: 48px;
+}
+
+#linkedin2 {
+  width: 48px;
+}
+
+nav {
+  background-color: rgba(0,0,0);
+  color: white;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  width: 20%;
+  text-align: center;
+}
+
+.heading {
+  display: none;
+}
+
+.hiddenName {
+  display: inline-block;
+}
+
+.pics {
+  display: block;
+  margin-right: 2em;
+}
+
+h2 {
+  height: 10%;
+  text-align: center;
+  display: inline-block;
+}
