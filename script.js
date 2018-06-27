@@ -1,15 +1,7 @@
 $(function() {
-
-  $('.button').css('cursor', 'pointer'); //change cursor
-
-
   $(".menuIcon").on("click", function() { //when burger icon is clicks
     $("nav").toggleClass("open"); //toggle that class
     $(".hideMe").toggleClass("open");
-  });
-
-  $("#clicker").on("click", function() { //when burger icon is clicks
-    $(".hideMe").toggleClass("open"); //toggle that class
   });
 
 //Learned these from https://stackoverflow.com/questions/6677035/jquery-scroll-to-element

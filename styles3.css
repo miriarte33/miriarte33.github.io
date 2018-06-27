@@ -9,15 +9,6 @@
   margin-right: auto;
 }
 
-.hideMe {
-  -webkit-transform: translate(0, 0);
-  transform: translate(0, 0);
-}
-
-#clicker {
-  display: none;
-}
-
 .pics {
   display: none;
 }
